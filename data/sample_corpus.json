@@ -1,0 +1,26 @@
+[
+  {
+    "id": "doc_1",
+    "text": "Dense passage retrieval uses continuous representations to index documents for open-domain question answering."
+  },
+  {
+    "id": "doc_2",
+    "text": "FAISS is a library for efficient similarity search and clustering of dense vectors, developed by Meta AI."
+  },
+  {
+    "id": "doc_3",
+    "text": "Cross-encoders perform full self-attention over the concatenated query and passage pair, achieving higher accuracy than bi-encoders."
+  },
+  {
+    "id": "doc_4",
+    "text": "BM25 is a term matching algorithm based on probabilistic retrieval principles and inverse document frequency."
+  },
+  {
+    "id": "doc_5",
+    "text": "Quantization maps continuous values or floating point numbers to discrete low-precision representations like INT8 to accelerate inference."
+  },
+  {
+    "id": "doc_6",
+    "text": "Docker packages applications into standardized units with all dependencies for reliable deployment across environments."
+  }
+]
